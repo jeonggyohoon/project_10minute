@@ -1,6 +1,6 @@
 use Min;
 
-
+ 
 CREATE TABLE Member
 (
     id          VARCHAR(30)    NOT NULL    COMMENT '아이디', 
